@@ -2,9 +2,20 @@
   "name": "cihuy-theme",
   "displayName": "Cihuy Theme",
   "description": "Cihuyy... Uhuyy... XD",
+  "publisher": "Cihuy",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.83.0"
+  },
+  "icon": "icons/cute_cat_mobile_phone.png",
+  "author": {
+    "name": "Rifaldi Arifin",
+    "email": "adirifaldiarifin@gmail.com",
+    "url": "https://rifaldiarifin.netlify.app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rifaldiarifin/cihuy-theme.git"
   },
   "categories": [
     "Themes"
@@ -14,7 +25,7 @@
       {
         "label": "Cihuy Dark Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Cihuy Dark Theme-color-theme.json"
+        "path": "./themes/cihuy-dark-color-theme.json"
       }
     ]
   }
