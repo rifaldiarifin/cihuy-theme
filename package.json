@@ -1,0 +1,21 @@
+{
+  "name": "cihuy-theme",
+  "displayName": "Cihuy Theme",
+  "description": "Cihuyy... Uhuyy... XD",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cihuy Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cihuy Dark Theme-color-theme.json"
+      }
+    ]
+  }
+}
